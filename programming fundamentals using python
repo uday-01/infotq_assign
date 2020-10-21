@@ -21,7 +21,7 @@ for(counter=1, counter<=6, counter=counter+1)
 move Right
 end-for
 
-#.....exercise 3
+#.....exercise 3 ....level - 2
 
 
 for(Counter=1, Counter<=4, Counter=Counter+1)
@@ -31,4 +31,18 @@ display Sunrise
 add Mountain
 display Daylight
 display Snow
+
+#....exercise - 4 ....level - 2
+
+for(Counter=1, Counter<=2, Counter=Counter+1 )
+add Sheep
+end-for
+for(Counter=1, Counter<=3, Counter=Counter+1 )
+add Mountain
+end-for
+display Rain
+display Moon
+display Nightsky
+add Tree
+
 
