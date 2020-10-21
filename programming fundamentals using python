@@ -1,5 +1,34 @@
-#...exercise 1 - level -1
+#...exercise 1 - level - 1
 
 input No_Of_Days
 Seconds= No_Of_Days*24*60*60
 display "Total number of seconds:",Seconds
+
+#....exercise 2 - level - 2
+
+  #for 1st move
+for(counter=1, counter<=5, counter=counter+1)
+move Right
+end-for
+
+  #for 2nd move
+for(counter=0, counter<=6, counter=counter+1)
+move Down
+end-for
+  #for 3rd move
+  
+for(counter=1, counter<=6, counter=counter+1)
+move Right
+end-for
+
+#.....exercise 3
+
+
+for(Counter=1, Counter<=4, Counter=Counter+1)
+add Sheep
+end-for
+display Sunrise
+add Mountain
+display Daylight
+display Snow
+
