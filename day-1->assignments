@@ -1,4 +1,4 @@
-#..day-1..assignment->01..
+#..day-1..assignment->01....
 
 while(start != end) do
 if(Is_Next_Block_Bomb) then
