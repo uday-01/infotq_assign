@@ -45,7 +45,7 @@ display Moon
 display Nightsky
 add Tree
 
-#...exercise - 5.......level - 2...
+#...exercise - 5.......level - 2..
 
 input Number
 if(Number==0) then
