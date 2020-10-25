@@ -24,6 +24,19 @@ else
 display "Num3 is the smallest"
 end-if
 
+#....day-1...assingment->03..
+
+total_distance=(distance_one_way*2)
+fuel_needed=(total_distance/mileage)
+total_amount_for_fuel=(amount_per_litre*fuel_needed)
+per_head_cost=(total_amount_for_fuel/4)
+(per_head_cost/5)==0
+divisible_by_five=True
+
+
+#Do not modify the below print statements for verification to work
+print(per_head_cost)
+print(divisible_by_five)
 
 
 
